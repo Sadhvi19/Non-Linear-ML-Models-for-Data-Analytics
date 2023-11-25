@@ -5,7 +5,7 @@
 * In standard analysis of databases, the datasets have linear relationship with one another, in this project we introduce Non-Linear model to have a comprehensive understanding of its performance.
 
 ## Methodology
-![image](https://github.com/Sadhvi19/Non-Linear-ML-Models-for-Data-Analytics/assets/53933893/032ce683-8397-4366-a02f-d1d5d08a4729)
+<img src="https://github.com/Sadhvi19/Non-Linear-ML-Models-for-Data-Analytics/assets/53933893/032ce683-8397-4366-a02f-d1d5d08a4729" width="350" height="350">
 
 ## Output 
 ![image](https://github.com/Sadhvi19/Non-Linear-ML-Models-for-Data-Analytics/assets/53933893/80e8647c-99d5-4561-9061-6d0e13bd62f9)
